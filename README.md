@@ -1,5 +1,5 @@
 # Hagedorn_Brown
- code up the Hagedorn & Brown multiphase pressure loss correlation
+coding the Hagedorn & Brown multiphase pressure loss correlation in Python
 
 Thus far, digitizing graphic-only correlations using
 https://apps.automeris.io/wpd/
